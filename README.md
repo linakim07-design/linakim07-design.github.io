@@ -1,3 +1,16 @@
 # 오프닝에 따른 체스 승률 예측
-This project is about predicting chess win rates.
-이 프로젝트는 오프닝에 따른 체스 승률 예측
+
+김민결 데이터사이언스학부 ki30ms19@gmail.com
+이병규 데이터사이언스학부 lbg0217@hanyang.ac.kr
+김리나 경영학부 
+
+I. 주제
+- 오프닝에 따른 체스 승률 예측
+- 체스는 훌륭한 데이터셋을 가지고 있어 분석하여 알아보기로 하였다
+- 어떤 오프닝이 승리에 가장 유리한지 알아보고 싶다
+
+II. 데이터셋
+- Kaggle chess games dataset
+
+III. 분석 및 진행 방법
+- 
